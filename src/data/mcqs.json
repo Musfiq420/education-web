@@ -1,0 +1,26 @@
+[
+    {
+        "mcq-id": 1,
+        "info-id": 3,
+        "type": "QUIZ",
+        "question": "Identify tense: I eat rice",
+        "options": ["Present", "Past", "Future"],
+        "correct-answer": 1
+    },
+    {
+        "mcq-id": 2,
+        "info-id": 4,
+        "type": "QUIZ",
+        "question": "Identify tense: I ate rice",
+        "options": ["Present", "Past", "Future"],
+        "correct-answer": 1
+    },
+    {
+        "mcq-id": 3,
+        "info-id": 5,
+        "type": "QUIZ",
+        "question": "Identify tense: I ate rice",
+        "options": ["Present", "Past", "Future"],
+        "correct-answer": 1
+    }
+]

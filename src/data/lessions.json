@@ -1,0 +1,93 @@
+[
+    {
+        "lesson-id": 1,
+        "chapter-id": 1,
+        "title": "Introduction",
+        "topics": [
+            {
+                "type": "INFORMATION",
+                "id": 1
+            },
+            {
+                "type": "INFORMATION",
+                "id": 2
+            },
+            {
+                "type": "INFORMATION",
+                "id": 3
+            },
+            {
+                "type": "INFORMATION",
+                "id": 4
+            },
+            {
+                "type": "INFORMATION",
+                "id": 5
+            },
+            {
+                "type": "MCQ",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "lesson-id": 2,
+        "chapter-id": 1,
+        "title": "Present Indefinite Tense"
+    },
+    {
+        "lesson-id": 3,
+        "chapter-id": 1,
+        "title": "Present Continuous Tense"
+    },
+    {
+        "lesson-id": 4,
+        "chapter-id": 1,
+        "title": "Present Perfect Tense"
+    },
+    {
+        "lesson-id": 5,
+        "chapter-id": 1,
+        "title": "Present Perfect Continuous Tense"
+    },
+    {
+        "lesson-id": 6,
+        "chapter-id": 1,
+        "title": "Past Indefinite Tense"
+    },
+    {
+        "lesson-id": 7,
+        "chapter-id": 1,
+        "title": "Past Continuous Tense"
+    },
+    {
+        "lesson-id": 8,
+        "chapter-id": 1,
+        "title": "Past Perfect Tense"
+    },
+    {
+        "lesson-id": 9,
+        "chapter-id": 1,
+        "title": "Past Perfect Continuous Tense"
+    },
+    {
+        "lesson-id": 10,
+        "chapter-id": 1,
+        "title": "Future Indefinite Tense"
+    },
+    {
+        "lesson-id": 11,
+        "chapter-id": 1,
+        "title": "Future Continuous Tense"
+    },
+    {
+        "lesson-id": 12,
+        "chapter-id": 1,
+        "title": "Future Perfect Tense"
+    },
+    {
+        "lesson-id": 13,
+        "chapter-id": 1,
+        "title": "Future Perfect Continuous Tense"
+    }
+]

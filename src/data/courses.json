@@ -1,0 +1,14 @@
+[
+    {
+        "course-id": "english-grammar",
+        "title": "English Grammar",
+        "category": "ACADEMIC",
+        "about": "For the learners who want to have fun in learning grammer"
+    },
+    {
+        "course-id": "english-vocabulary",
+        "title": "English Vocabulary",
+        "category": "SKILL",
+        "about": "For the learners who want to have fun in learning vocabulary"
+    }
+]

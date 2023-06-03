@@ -1,0 +1,27 @@
+[
+    { 
+        "lesson-id": 1,
+        "info-id": 1,
+        "content": "The time of accomplishing any action of a verb is called Tense"
+    },
+    { 
+        "lesson-id": 1,
+        "info-id": 2,
+        "content": "Tense is of 3 kinds. Present, Past and Future"
+    },
+    { 
+        "lesson-id": 1,
+        "info-id": 3,
+        "content": "Present tense describes an action in the present time"
+    },
+    { 
+        "lesson-id": 1,
+        "info-id": 4,
+        "content": "Past tense describes an action in the past time"
+    },
+    { 
+        "lesson-id": 1,
+        "info-id": 5,
+        "content": "Future tense describes an action in the past time"
+    } 
+]
